@@ -1,5 +1,5 @@
 #
-# <https://github.com/Erope/openwrt_nezha/>
+# <https://github.com/Slotheve/Nezha/>
 # 
 # Copyright (C) 2021 zPonds <admin@shinenet.cn>
 # Copyright (C) 2020 KFERMercer <KFER.Mercer@gmail.com>
@@ -16,7 +16,7 @@ LUCI_DEPENDS:=+nezha-agent
 LUCI_PKGARCH:=all
 PKG_VERSION:=1.0
 PKG_RELEASE:=1
-PKG_MAINTAINER:=<https://github.com/Erope/openwrt_nezha/>
+PKG_MAINTAINER:=<https://github.com/Slotheve/Nezha/>
 
 include $(TOPDIR)/feeds/luci/luci.mk
 
